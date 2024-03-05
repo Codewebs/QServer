@@ -1,1 +1,1 @@
-# pharma-server
+# Q-server
